@@ -1,7 +1,9 @@
-## Meetup Engineering Principles
-#### Empower Meetup engineers to build coherent, lasting engineering solutions that bring value to our customers.*
+# Meetup Engineering Principles
+*Empowering Meetup engineers to build coherent, lasting engineering solutions that bring value to our customers.*
 
-### How do we use these?
+![Build for Change, Build for Understanding, Build Meetup](principles.png)
+
+## How do we use these?
 These principles are intended to help you evaluate engineering solutions to problems. Therefore, before you can apply them to your project, you have to be able to answer the question *"What problem am I trying to solve?"*   
 Once you know that, ask yourself questions like:
 
@@ -9,6 +11,7 @@ Once you know that, ask yourself questions like:
 - What aspects of these principles am I actively prioritizing? Why?
 - Why are the other aspects of these principles not a priority in this context?
 
+## The principles
 ### Build for Change
 Meetup's engineering team and platform will scale. The demands of our users will change, and our understanding of the needs of our users will evolve. The systems we build will need to either adapt to change or be replaced. 
 
