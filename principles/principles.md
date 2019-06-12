@@ -1,5 +1,5 @@
 ## Meetup Engineering Principles
-#### *Our goal: Empower Meetup engineers to build coherent, lasting engineering solutions that bring value to our customers.*
+#### Empower Meetup engineers to build coherent, lasting engineering solutions that bring value to our customers.*
 
 ### How do we use these?
 These principles are intended to help you evaluate engineering solutions to problems. Therefore, before you can apply them to your project, you have to be able to answer the question *"What problem am I trying to solve?"*   
