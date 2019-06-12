@@ -12,4 +12,4 @@ This repo contains the Meetup Engineering Principles, Practices, Architecture & 
 
 ### Architecture & Defaults (Coming soon!)
 
-[Meetup Engineering Architecture & Defaults](architecture-defaults/home.md)
+[Meetup Engineering Architecture & Defaults]
