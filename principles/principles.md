@@ -9,7 +9,7 @@ Once you know that, ask yourself questions like:
 - What aspects of these principles am I actively prioritizing? Why?
 - Why are the other aspects of these principles not a priority in this context?
 
-### Build for Change {#change}
+### Build for Change
 Meetup's engineering team and platform will scale. The demands of our users will change, and our understanding of the needs of our users will evolve. The systems we build will need to either adapt to change or be replaced. 
 
 Systems built for change:
