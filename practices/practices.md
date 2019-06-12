@@ -1,5 +1,5 @@
 ## Meetup Engineering Practices
-#### Empower Meetup engineers to build coherent, lasting engineering solutions that bring value to our customers.*
+#### Empowering Meetup engineers to build coherent, lasting engineering solutions that bring value to our customers.*
 
 ### How do we use these?
 These practices are intended to help you understand what is expected of engineers at Meetup. They should answer the question: *"How should we be building software at Meetup?"*
