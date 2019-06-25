@@ -1,5 +1,4 @@
 # Meetup Engineering Principles
-*Empowering Meetup engineers to build coherent, lasting engineering solutions that bring value to our customers.*
 
 ![Build for Change, Build for Understanding, Build Meetup](principles.png)
 
